@@ -16,7 +16,7 @@ app.get('/a2', function (req, res) {
  res.send("hello 2");
 });
 app.get('/a3', function (req, res) {
- res.send("hello 2");
+ res.send("hello 3");
 });
 
 app.get('/ui/style.css', function (req, res) {
